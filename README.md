@@ -8,6 +8,5 @@
 </a>
 
 <a href="https://wakatime.com/@tttan308">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&layout=compact" width="837px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&layout=compact" width="50%"/>
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
