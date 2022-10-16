@@ -6,7 +6,5 @@
 <a href="https://wakatime.com/@tttan308">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&theme=radical" width="837px"/>
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
