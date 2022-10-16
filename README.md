@@ -6,3 +6,4 @@
 <a href="https://wakatime.com/@tttan308">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&theme=radical" width="837px"/>
 </a>
+<figure><embed src="https://wakatime.com/share/@tttan308/abac301b-620b-4161-9fa1-9cd60d885466.svg"></embed></figure>
