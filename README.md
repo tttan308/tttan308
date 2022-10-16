@@ -5,7 +5,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
+  <summary><b>GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/tttan308/tttan308"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tttan308&theme=highcontrast"/></a>
     <a href="https://github.com/tttan308/tttan308"><img alt="Mitul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&theme=merko" width=55%/></a>
