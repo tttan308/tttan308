@@ -7,4 +7,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&theme=radical" width="837px"/>
 </a>
 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
