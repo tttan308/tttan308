@@ -4,9 +4,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://wakatime.com/@tttan308">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&theme=radical" width="837px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&theme=radical" height="55px" width="837px"/>
 </a>
 
 <a href="https://wakatime.com/@tttan308">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&layout=compact" width="50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&layout=compact" height="55px" width="50%"/>
 </a>
