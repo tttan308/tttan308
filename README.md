@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://wakatime.com/@tttan308">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&theme=radical" width="837px" padding="20px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&theme=radical" width="837px" margin="20px"/>
 </a>
 
 <a href="https://wakatime.com/@tttan308">
