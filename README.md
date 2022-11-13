@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src=" height="55px" width="55px">, I'm TanTran</h1>
+<h1 align="center">~~TanTran~~</h1>
 
 <details open="">
   <p align="center">
