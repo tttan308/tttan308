@@ -1,4 +1,4 @@
-<h1 align="center">~~TanTran~~</h1>
+<h1 align="center">~TanTran~</h1>
 
 <details open="">
   <p align="center">
