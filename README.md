@@ -1,12 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9692ff,100:0078d4&height=200&section=header&text=TAN%20TRAN&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=root%40tttan308%3A~%23&descAlignY=62&descSize=20&animation=fadeIn" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=9692FF&center=true&vCenter=true&width=700&lines=%24+whoami+%3E+full-stack+engineer;%24+git+log+--count+%3E+5%2C996+contributions;%24+growth+--yearly+%3E+94+in+2022+to+3%2C220+in+2026;%24+uptime+%3E+since+2021%2C+still+compiling)](https://github.com/tttan308)
+<img width="100%" src="assets/hero.svg" alt="Tran Thai Tan, AI agent builder" />
 
 <img width="100%" src="assets/counters.svg" alt="Live telemetry" />
 
-<img width="100%" src="assets/growth.svg" alt="Growth curve" />
+<img width="100%" src="assets/growth.svg" alt="Evolution per year" />
 
 <img width="100%" src="assets/activity.svg" alt="Activity matrix" />
 
@@ -26,7 +24,5 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=9692ff)
 ![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=9692ff)
 ![Spring](https://img.shields.io/badge/-Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=9692ff)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078d4,100:9692ff&height=100&section=footer" />
 
 </div>
