@@ -10,8 +10,6 @@
 
 <img width="100%" src="assets/activity.svg" alt="Activity matrix" />
 
-<img width="100%" src="https://raw.githubusercontent.com/tttan308/tttan308/output/snake.svg" alt="Contribution snake" />
-
 <img width="100%" src="assets/languages.svg" alt="Language DNA" />
 
 </div>
